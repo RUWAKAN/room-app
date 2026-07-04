@@ -10,7 +10,7 @@ Room is a private class and team management platform that replaces WhatsApp grou
 
 ## 🚀 Live Demo
 
-Deploy in 60 seconds → drag the `/dist` folder to [netlify.com/drop](https://netlify.com/drop)
+Live Link : [ https://ruwakan.github.io/room-app/ )
 
 ---
 
@@ -106,14 +106,6 @@ npm run build
 Output in `/dist` — deploy anywhere that serves static files.
 
 ---
-
-## 🌐 Deploy in 60 seconds
-
-**Netlify (easiest)**
-1. Run `npm run build`
-2. Go to [netlify.com/drop](https://app.netlify.com/drop)
-3. Drag the `dist/` folder
-4. Done — live URL instantly
 
 **Vercel**
 ```bash
